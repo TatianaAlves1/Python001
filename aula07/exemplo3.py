@@ -10,3 +10,7 @@ print(metade)
 #mostrar valores da lista que estão acima de 5
 lista2 = [i for i in lista if i>5]
 print(lista2)
+nomes = ['Marcelo','Vivane','Fernanda','Ari']
+#criar uma nova lista com os nomes em letras Maiúsculas
+m_nomes = [i.upper() for i in nomes]
+print(m_nomes)
