@@ -1,0 +1,7 @@
+
+Aluno:     Deyvin      idade:   88  
+Aluno:     Matheus     idade:   6   
+Aluno:      João       idade:   88  
+Aluno:     Marcos      idade:   23  
+Aluno:     marcos      idade:   8   
+Aluno:     Felipe      idade:   3   
